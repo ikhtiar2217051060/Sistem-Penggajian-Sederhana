@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\xampp\htdocs\Sistem_Penggajian\phpunit.dist.xml" tests="1" assertions="3" errors="0" failures="0" skipped="0" time="0.054220">
+    <testsuite name="App" tests="1" assertions="3" errors="0" failures="0" skipped="0" time="0.054220">
+      <testsuite name="UserModelTest" file="C:\xampp\htdocs\Sistem_Penggajian\tests\unit\UserModelTest.php" tests="1" assertions="3" errors="0" failures="0" skipped="0" time="0.054220">
+        <testcase name="testUsernameAvailabilityExcludesTheCurrentUser" file="C:\xampp\htdocs\Sistem_Penggajian\tests\unit\UserModelTest.php" line="11" class="UserModelTest" classname="UserModelTest" assertions="3" time="0.054220"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

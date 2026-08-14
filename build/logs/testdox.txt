@@ -1,0 +1,3 @@
+User Model
+ [x] Username availability excludes the current user
+

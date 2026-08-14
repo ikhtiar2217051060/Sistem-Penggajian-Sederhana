@@ -1,0 +1,1 @@
+{"version":2,"defects":{"UserModelTest::testUsernameAvailabilityExcludesTheCurrentUser":8},"times":{"UserModelTest::testUsernameAvailabilityExcludesTheCurrentUser":0.02}}
